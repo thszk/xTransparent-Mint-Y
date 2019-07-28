@@ -734,7 +734,7 @@ StScrollBar {
 .switcher-list {
   color: #f0f0f0;
   border: 1px solid #202020;
-  background-color: #2f2f2f;
+  background-color: rgba(47, 47, 47, 0.6); /* alt tab background color */
   border-radius: 3px;
   padding: 20px; }
   .switcher-list > StBoxLayout {
@@ -796,7 +796,7 @@ StScrollBar {
   background-color: white; }
 
 .modal-dialog {
-  background-color: #2f2f2f;
+  background-color: #d2f2f2f;
   border: 1px solid #202020;
   border-radius: 3px;
   padding: 0; }
